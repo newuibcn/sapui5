@@ -1,0 +1,6 @@
+C:\Treball\Documentació clients\NEW UI BCN\Blog\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll.config
+C:\Treball\Documentació clients\NEW UI BCN\Blog\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll
+C:\Treball\Documentació clients\NEW UI BCN\Blog\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.pdb
+C:\Treball\Documentació clients\NEW UI BCN\Blog\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.csprojResolveAssemblyReference.cache
+C:\Treball\Documentació clients\NEW UI BCN\Blog\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Treball\Documentació clients\NEW UI BCN\Blog\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.pdb
